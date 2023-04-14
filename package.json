@@ -1,0 +1,22 @@
+{
+  "name": "playwright-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misusim/playwright-ecommerce.git"
+  },
+  "author": "Mior Sufian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misusim/playwright-ecommerce/issues"
+  },
+  "homepage": "https://github.com/misusim/playwright-ecommerce#readme",
+  "dependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}
